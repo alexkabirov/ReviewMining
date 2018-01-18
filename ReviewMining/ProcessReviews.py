@@ -6,7 +6,7 @@ from Ontology import *
 import pandas as pd
 # from spacy.symbols import ROOT
 
-#githubtest
+#githubtest_pull
 
 print ("Loading the model...")
 nlp = en_core_web_lg.load()
